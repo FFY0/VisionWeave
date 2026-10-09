@@ -1,0 +1,4 @@
+interface:
+  display_name: "VisionWeave Setup"
+  short_description: "Set up VisionWeave and verify image/video inference"
+  default_prompt: "Use $visionweave-setup to configure the project environment, verify the pinned SGLang revision and CUDA integration, and validate image/video inference when requested."
