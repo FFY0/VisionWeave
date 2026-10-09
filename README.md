@@ -18,7 +18,8 @@
 
 VisionWeave learns **where to preserve visual detail and where to compress**, weaving fine- and coarse-grained representations according to visual content. 
 
-Watch the [quick walkthrough video](assets/demo.mp4).
+Watch a quick walkthrough video.
+https://drive.google.com/file/d/1AFFi4HKOdg-0gPdd8-i2s1lzJJh23Uyp/view 
 
 <p align="center">
   <img src="assets/teaser.png" alt="VisionWeave adapts fine and coarse visual representations to natural scenes, text, driving scenes, and charts." width="960">
